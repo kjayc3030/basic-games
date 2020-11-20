@@ -1,5 +1,5 @@
 #Kean Jaycox
-#Dice Random 001
+#Dice Random 003
 
 import random
 val = 'z'
