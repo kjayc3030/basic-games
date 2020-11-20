@@ -1,5 +1,6 @@
 #Kean Jaycox
-#Dice Random 001
+#Dice Random 004
+#brute force randoms
 
 import random
 val = 'z'
