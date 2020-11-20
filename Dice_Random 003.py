@@ -2,8 +2,6 @@
 #Dice Random 001
 
 import random
-die_one = [1, 2, 3, 4, 5, 6]
-n = random.randint(1,6)
 val = 'z'
 
 while(val != 'e'):
